@@ -12,4 +12,5 @@ Tattooed banh mi bespoke.
 
 This is the third iteration I guess. I am just wondering how big this file is going to be.
 
+This is an introductory website.
 1. index.html
